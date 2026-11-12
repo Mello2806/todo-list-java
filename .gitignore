@@ -1,0 +1,15 @@
+# Build
+target/
+out/
+*.class
+
+# Arquivo de dados gerado ao rodar o programa
+tarefas.csv
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
